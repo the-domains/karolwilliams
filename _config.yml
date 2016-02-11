@@ -1,0 +1,28 @@
+name: KarolWilliams
+favicon: null
+layout_spectrum: 0.20157135324552655
+typography_spectrum: 0.3445184580050409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3411476342007518
+  lightness: 0.7609305768273771
+  saturation: 0.48300154600292444
+  rhythmicContrast: 0.8235675629694015
+purpose: []
